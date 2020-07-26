@@ -4,7 +4,7 @@ Welcome to Tanmay Sharma's page.
 <body>
 <?php
 
-echo "Page is working fine."
+echo "Page is working fine";
 
 ?>
 </body>
